@@ -47,6 +47,16 @@
 </p>
 
 
+
+## odlaGPT Setup
+- Renamed app to odlaGPT via APP_TITLE in .env.
+- Integrated OpenAI API for GPT-3.5-turbo.
+- Local testing with Docker: `docker compose up -d`.
+- Visit http://localhost:3080 to chat.
+
+
+
+
 # ✨ Features
 
 - 🖥️ **UI & Experience** inspired by ChatGPT with enhanced design and features
